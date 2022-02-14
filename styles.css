@@ -3,7 +3,7 @@
 .main-home { grid-column: 1/2; grid-row: 2/3; }
 .footer-home { grid-column: 1/2; grid-row: 3/4; }
 
-.main-home{ 
+.main-home , .main-docs { 
     background-image: linear-gradient(45deg,var(--metal), var(--cool), var(--eco-lite), var(--bee-lite), var(--sun), var(--fire-lite));
 }
 
