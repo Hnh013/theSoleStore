@@ -16,7 +16,7 @@ At current stage only static (HTML, CSS & JS) templates have been developed for 
 5. **[Demo](#demo)**
 
 ## 1. The Sole Store<a name="theSoleStore"></a>
-* KnowIndia is an e-commerce site focused on the sales of shoes of various kinds. It also shows latest articles and news regarding shoes, from launches to stories of different shoe making brands. 
+* The Sole Store is an e-commerce site focused on the sales of shoes of various kinds. It also shows latest articles and news regarding shoes, from launches to stories of different shoe making brands. 
 * The application will offer its users to purchase from a wide variety of shoes available.   
 * Users would be able to save their favorite items in wishlist, and add them to cart before buying.
 * Users will be able to create account , login and logout from the application via an authentication system.
