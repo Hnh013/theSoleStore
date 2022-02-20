@@ -5,7 +5,9 @@
 The current application is still a WIP (work in progress) and hence all the functions may or may not work in the intended manner.     
 At current stage only static (HTML, CSS & JS) templates have been developed for the respective components/pages.     
 
-#### Live Project Link : https://the-sole-store-git-development-hnh013.vercel.app/
+### The project is live at
+#### Vercel : https://the-sole-store-git-development-hnh013.vercel.app/
+#### Netlify: https://thesolestore.netlify.app/
 
 ## Contents
 
@@ -23,13 +25,13 @@ At current stage only static (HTML, CSS & JS) templates have been developed for 
 
 At this moment, current list of components/pages that are present in the application are :
 
-1. Home Page https://the-sole-store-git-development-hnh013.vercel.app/index.html
-2. Products Page https://the-sole-store-git-development-hnh013.vercel.app/components/products.html
-3. Wishlist Page https://the-sole-store-git-development-hnh013.vercel.app/components/wishlist.html
-4. Cart Page https://the-sole-store-git-development-hnh013.vercel.app/components/cart.html
-5. Login Page https://the-sole-store-git-development-hnh013.vercel.app/components/login.html
-5. Signup Page https://the-sole-store-git-development-hnh013.vercel.app/components/signup.html
-5. Logout Page https://the-sole-store-git-development-hnh013.vercel.app/components/logout.html
+1. Home Page [Link](https://thesolestore.netlify.app/index.html)
+2. Products Page [Link](https://thesolestore.netlify.app/components/products.html)
+3. Wishlist Page [Link](https://thesolestore.netlify.app/components/wishlist.html)
+4. Cart Page [Link](https://thesolestore.netlify.app/components/cart.html)
+5. Login Page [Link](https://thesolestore.netlify.app/components/login.html)
+5. Signup Page [Link](https://thesolestore.netlify.app/components/signup.html)
+5. Logout Page [Link](https://thesolestore.netlify.app/components/logout.html)
 
 ## 2. Purpose of the project<a name="purpose-of-the-project"></a>
 * The main aim of the project is to create a user-friendly, easily to navigate e-commerce website for the users where they can buys shoes of various kinds.
@@ -46,27 +48,29 @@ At this moment, current list of components/pages that are present in the applica
 
 ## 5. Demo<a name="demo"></a>
 
-#### The project is live at : https://the-sole-store-git-development-hnh013.vercel.app/
+### The project is live at
+#### Vercel : https://the-sole-store-git-development-hnh013.vercel.app/
+#### Netlify: https://thesolestore.netlify.app/
 
-#### Home Page https://know-india-git-development-hnh013.vercel.app/index.html
+#### Home Page [Link](https://thesolestore.netlify.app/index.html)
 ![home page](./images/demo_home.png)
 
-#### Products Page   https://the-sole-store-git-development-hnh013.vercel.app/components/products.html
+#### Products Page [Link](https://thesolestore.netlify.app/components/products.html)
 ![products page](./images/demo_products.png)
 
-#### Wishlist Page  https://the-sole-store-git-development-hnh013.vercel.app/components/wishlist.html
+#### Wishlist Page [Link](https://thesolestore.netlify.app/components/wishlist.html)
 ![wishlist page](./images/demo_wishlist.png)
 
-#### Cart Page   https://the-sole-store-git-development-hnh013.vercel.app/components/cart.html
+#### Cart Page [Link](https://thesolestore.netlify.app/components/cart.html)
 ![cart page](./images/demo_cart.png)
 
-#### Login Page  https://the-sole-store-git-development-hnh013.vercel.app/components/login.html
+#### Login Page [Link](https://thesolestore.netlify.app/components/login.html)
 ![login page](./images/demo_login.png)
 
-#### Signup Page  https://the-sole-store-git-development-hnh013.vercel.app/components/signup.html
+#### Signup Page [Link](https://thesolestore.netlify.app/components/signup.html)
 ![signup page](./images/demo_signup.png)
 
-#### Logout Page  https://the-sole-store-git-development-hnh013.vercel.app/components/logout.html
+#### Logout Page [Link](https://thesolestore.netlify.app/components/logout.html)
 ![logout page](./images/demo_logout.png)
 
 [Back To Top](#top)
